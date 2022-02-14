@@ -1,0 +1,22 @@
+{
+  "name": "elabor8cats",
+  "version": "1.0.0",
+  "description": "cats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwin2811/Elabor8cats.git"
+  },
+  "author": "regression",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwin2811/Elabor8cats/issues"
+  },
+  "homepage": "https://github.com/edwin2811/Elabor8cats#readme",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  }
+}
